@@ -2,6 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ashu</groupId>
   <artifactId>web-app1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>RELEASE.2.0</version>
   <packaging>war</packaging>
 </project>
